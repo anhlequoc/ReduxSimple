@@ -1,3 +1,4 @@
+# SECTION 1
 ### Lecture 12:
  Youtube web app: 5 components
   1. App: overall component
@@ -38,3 +39,10 @@ Using youtube API to fetch data and show real youtube video to users
 ```
 <input value={this.state.term} />
 ```
+
+
+#SECTION 2
+### Lecture 21 - Youtube search response
+- index.js: import YTSearch from youtube-api-search
+
+### Lecture 22
