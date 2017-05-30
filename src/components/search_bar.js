@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class SearchBar extends Component { //nếu không import {Component} ở line 1 thì cần extends React.Component
+class SearchBar extends Component {
   constructor (props) {
     super(props);
     this.state = {
@@ -17,10 +17,6 @@ class SearchBar extends Component { //nếu không import {Component} ở line 1
       </div>
     )
   }
-
-  // onInputChange (event) { //event describes the context or information about the event that occured, technically
-  //   console.log(event.target.value);
-  // }
 }
 
 export default SearchBar;
