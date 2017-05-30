@@ -45,4 +45,4 @@ Using youtube API to fetch data and show real youtube video to users
 ### Lecture 21 - Youtube search response
 - index.js: import YTSearch from youtube-api-search
 
-### Lecture 22
+### Lecture 23 - Props
