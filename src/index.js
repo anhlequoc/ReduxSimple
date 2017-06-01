@@ -1,25 +1,14 @@
 import _ from 'lodash';
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-<<<<<<< HEAD
-=======
 import YTSearch from 'youtube-api-search';
 
->>>>>>> withComment
 import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
 const API_KEY = "AIzaSyC5wV86_nViTypSHO6DrRu0JmHzCfc96-s";
 
-<<<<<<< HEAD
-const App = () => {
-  return (
-    <div>
-      <SearchBar />
-    </div>
-  );
-=======
 class App extends Component {
   constructor (props) {
     super(props);
@@ -54,7 +43,6 @@ class App extends Component {
       </div>
     );
   }
->>>>>>> withComment
 }
 
 ReactDOM.render(<App />, document.querySelector('.container'));
