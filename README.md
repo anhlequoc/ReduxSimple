@@ -1,4 +1,5 @@
-# ReduxSimpleStarter
+# SimpeYoutubeApp
+Cover Section 1 + 2 of "Modern React With Redux" course on Udemy
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
